@@ -1,7 +1,7 @@
 %define devname %mklibname zug -d
 
 Name: zug
-Version: 0.1.0
+Version: 0.1.1
 Release: 1
 Source0: https://github.com/arximboldi/zug/archive/refs/tags/v%{version}.tar.gz
 Summary: C++ library providing transducers
